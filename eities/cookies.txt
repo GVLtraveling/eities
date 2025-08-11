@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+theninetiesarcade.com	TRUE	/	FALSE	1999999999	_tracking_consent	3.AMPS_MXCHH_f_f_RhEle2wMQL2rilmEWRSPRA
+theninetiesarcade.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fproducts%2Fninetiesarcade
+theninetiesarcade.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZiWyQSMAAEAliOzOt1ItX-dtE8uXUtQhNI_Yn-MLZ-8mekZ32D_YvEfL3Xjsy99C4O1EI5p36TxSlbeIS42BSdGPY4CHmQH8LFqrT66:
+theninetiesarcade.com	TRUE	/	FALSE	1999999999	Priority	High
+theninetiesarcade.com	TRUE	/	FALSE	1999999999	localization	MX
+theninetiesarcade.com	TRUE	/	FALSE	1999999999	keep_alive	bf5eb9ec-4236-4f24-93a3-42b1bbaa595a
+theninetiesarcade.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+theninetiesarcade.com	TRUE	/	FALSE	1999999999	_shopify_y	305cea3e-c9d8-4600-9e37-b112d13e4d99
+theninetiesarcade.com	TRUE	/	FALSE	1999999999	_shopify_s	22236091-e9fb-49d5-a0e1-f4d8d64fd3e7
+theninetiesarcade.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
